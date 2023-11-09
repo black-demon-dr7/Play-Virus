@@ -25,10 +25,7 @@ $ pkg install bash -y
 $ git clone https://github.com/black-demon-dr7/Play-Virus.git
 ```
 ```
-$ cd Voice-logo-dr70
-```
-```
-$ chmod +x *
+$ cd Play-Virus
 ```
 ```
 $ bash demon.sh
