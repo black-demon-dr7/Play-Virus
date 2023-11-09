@@ -1,5 +1,6 @@
 #!/bin/bash
 
+clear
 echo "Do you love me? (y/n): "
 read shh
 
